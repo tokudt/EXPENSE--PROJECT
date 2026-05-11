@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # SQL Server Management Studio Version 22
-VisualStudioVersion = 18.3.11505.172 d18.3
+VisualStudioVersion = 18.3.11505.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DATA-EXPENSE", "DATA-EXPENSE.sqlproj", "{EC60F407-AAF9-4E11-B050-8123BEA3AFAD}"
 EndProject
@@ -19,9 +19,9 @@ Global
 		{EC60F407-AAF9-4E11-B050-8123BEA3AFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC60F407-AAF9-4E11-B050-8123BEA3AFAD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EC60F407-AAF9-4E11-B050-8123BEA3AFAD}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{77EA974D-61C9-4825-9F0C-5E2BB1950B3D}.Debug|Any CPU.ActiveCfg = Default
-		{77EA974D-61C9-4825-9F0C-5E2BB1950B3D}.Default|Any CPU.ActiveCfg = Default
-		{77EA974D-61C9-4825-9F0C-5E2BB1950B3D}.Release|Any CPU.ActiveCfg = Default
+		{0D5126BD-13F9-4AA2-BF36-8BD07DA2D4D7}.Debug|Any CPU.ActiveCfg = Default
+		{0D5126BD-13F9-4AA2-BF36-8BD07DA2D4D7}.Default|Any CPU.ActiveCfg = Default
+		{0D5126BD-13F9-4AA2-BF36-8BD07DA2D4D7}.Release|Any CPU.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
